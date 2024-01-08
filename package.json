@@ -1,0 +1,14 @@
+{
+  "name": "advanced-js-sandbox",
+  "version": "1.0.0",
+  "description": "To use this repository: - Click the \"Use this template\" button in the upper right - Choose a name for your repository and create it - In your own repository, click the green \"Gitpod\" button",
+  "main": "arrow-functions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
